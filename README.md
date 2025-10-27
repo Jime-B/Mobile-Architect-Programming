@@ -3,6 +3,7 @@
 
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 The Event-Tracking App provides a simple and effective platform for users to record, organize, and track events in a minimalistic yet customizable environment. The app was developed to reduce cognitive overload while offering essential features for students, professionals, and event planners.
+
 •	Students can use the app to manage academic tasks like project deadlines and exam dates, focusing on simplicity without unnecessary complexity.
 •	Professionals benefit from a tool to track work-related events without needing to sync with external calendars, keeping personal and professional schedules separate.
 •	Event planners can organize multiple events efficiently through a user-friendly interface, without the distraction of overly complex features.
